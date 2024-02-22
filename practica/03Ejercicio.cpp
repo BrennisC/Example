@@ -11,8 +11,8 @@ float triangulo(float altura, float base)
 
 int main()
 {
-    cout << "Triangulo #1 " << triangulo(6.5, 17.9) << endl;
-    cout << "Triangulo #2 " << triangulo(1.2, 18) << endl;
-    cout << "Triangulo #3 " << triangulo(1.9, 1.8) << endl;
+    cout << "Triangle #1 " << triangulo(6.5, 17.9) << endl;
+    cout << "Triangle #2 " << triangulo(1.2, 18) << endl;
+    cout << "Triangle #3 " << triangulo(1.9, 1.8) << endl;
     return 0;
 }

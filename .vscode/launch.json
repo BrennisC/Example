@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Brennis/retos",
-      "program": "c:/Brennis/retos/build/Debug/outDebug",
+      "cwd": "c:/Brennis/ejemplos",
+      "program": "c:/Brennis/ejemplos/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
